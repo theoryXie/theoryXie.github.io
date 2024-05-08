@@ -35,7 +35,7 @@ My research interest includes microservice, serverless, AIOps, and service compu
 
 **Shuaiyu Xie**, Jian Wang, Bing Li, Zekun Zhang, Duantengchuan Li, Patrick C. K. Hung
 
-**<font color=red>TSC 2024  </font>** \| [[**Paper**]](https://ieeexplore.ieee.org/document/10468626)  [**Code** ![](https://img.shields.io/github/stars/WHU-AISE/PBScaler?style=social)](https://github.com/WHU-AISE/PBScaler)
+**<font color=red>TSC 2024  </font>** \| [[**Paper**]](https://ieeexplore.ieee.org/document/10468626)  [[**Code** ![](https://img.shields.io/github/stars/WHU-AISE/PBScaler?style=social)]](https://github.com/WHU-AISE/PBScaler)
 </div>
 </div>
 
@@ -43,7 +43,7 @@ My research interest includes microservice, serverless, AIOps, and service compu
 # 🎖 Honors and Awards
 - *2023.12* National Scholarship
 - *2023.11* Lei Jun Computer Graduate Scholarship
-- *2022.10* First Prize of the 4th China Graduate AI Innovation Competition (10 teams in China each year) 
+- *2022.10* [First Prize of the 4th China Graduate AI Innovation Competition](https://cpipc.acge.org.cn/cw/hp/2c9088a5696cbf370169a3f8101510bd) (10 teams in China each year) 
 
 # 📖 Educations
 - *2021.09 - 2026.06 (expected)*, Master of Engineering in Software Engineering, Department of Computer Science, Wuhan University (WHU). 
