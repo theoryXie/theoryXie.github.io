@@ -35,7 +35,19 @@ My research interest includes microservice, serverless, AIOps, and service compu
 
 **Shuaiyu Xie**, Jian Wang, Bing Li, Zekun Zhang, Duantengchuan Li, Patrick C. K. Hung
 
-**<font color=red>TSC 2024  </font>** \| [[**Paper**]](https://ieeexplore.ieee.org/document/10468626)  [[**Code** ![](https://img.shields.io/github/stars/WHU-AISE/PBScaler?style=social)]](https://github.com/WHU-AISE/PBScaler)
+**<font color=red>TSC 2024  </font>** \| [[**Paper**]](https://arxiv.org/abs/2407.19711)  [[**Code**] ![](https://img.shields.io/github/stars/WHU-AISE/PBScaler?style=social)](https://github.com/WHU-AISE/PBScaler)
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/TVDiag.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[TVDiag: A Task-oriented and View-invariant Failure Diagnosis Framework with Multimodal Data](https://arxiv.org/abs/2407.19711)
+
+**Shuaiyu Xie**, Jian Wang, Hanbin He, Zhihao Wang, Yuqi Zhao, Neng Zhang, Bing Li
+
+[[**Paper**]](https://arxiv.org/abs/2407.19711)  [[**Code**] ![](https://github.com/WHU-AISE/TVDiag?style=social)](https://github.com/WHU-AISE/TVDiag)
 </div>
 </div>
 
