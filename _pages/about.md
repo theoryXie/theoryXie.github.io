@@ -24,6 +24,7 @@ My research interest includes microservice, serverless, AIOps, and service compu
 
 
 # 🔥 News
+- *2025.04*: &nbsp;🎉 One paper is accepted by FSE 2025. 
 - *2024.03*: &nbsp;🎉 One paper is accepted by TSC 2024. 
 
 # 📝 Publications 
@@ -40,6 +41,18 @@ My research interest includes microservice, serverless, AIOps, and service compu
 </div>
 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">FSE 2025</div><img src='images/TracePicker.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+TracePicker: Optimization-based Trace Sampling for Microservice-based Systems
+<!-- [TracePicker: Optimization-based Trace Sampling for Microservice-based Systems](https://ieeexplore.ieee.org/document/10468626) -->
+
+**Shuaiyu Xie**, Jian Wang, Maodong Li, Peiran Chen, Jifeng Xuan, Bing Li
+
+**<font color=red>FSE 2025  </font>**
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/TVDiag.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -47,12 +60,13 @@ My research interest includes microservice, serverless, AIOps, and service compu
 
 **Shuaiyu Xie**, Jian Wang, Hanbin He, Zhihao Wang, Yuqi Zhao, Neng Zhang, Bing Li
 
-[[**Paper**]](https://arxiv.org/abs/2407.19711)  [[**Code**] ![](https://github.com/WHU-AISE/TVDiag?style=social)](https://github.com/WHU-AISE/TVDiag)
+[[**Paper**]](https://arxiv.org/abs/2407.19711)  [[**Code**] ![](https://img.shields.io/github/stars/WHU-AISE/TVDiag?style=social)](https://github.com/WHU-AISE/TVDiag)
 </div>
 </div>
 
 
 # 🎖 Honors and Awards
+- *2024.12* Huawei Special Scholarship 
 - *2023.12* National Scholarship
 - *2023.11* Lei Jun Computer Graduate Scholarship
 - *2022.10* [First Prize of the 4th China Graduate AI Innovation Competition](https://cpipc.acge.org.cn/cw/hp/2c9088a5696cbf370169a3f8101510bd) (10 teams in China each year) 
