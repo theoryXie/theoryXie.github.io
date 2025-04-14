@@ -98,12 +98,23 @@ h1:before, .anchor:before {
 }
 
 .badge {
-    padding-left: 1rem;
-    padding-right: 1rem;
-    position: absolute;
+    padding-left: .5rem;
+    padding-right: .5rem;
+    position: relative;
     margin-top: .5em;
     margin-left: -.5em;
     color: white;
     background-color: #00369f;
+    font-size: .8em;
+}
+
+.award {
+    padding-left: .5rem;
+    padding-right: .5rem;
+    position: relative;
+    margin-top: .5em;
+    margin-left: -.5em;
+    color: #00369f;
+    background-color: gold;
     font-size: .8em;
 }
