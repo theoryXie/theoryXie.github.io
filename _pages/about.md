@@ -30,42 +30,18 @@ My research interest includes microservice, serverless, AIOps, and service compu
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TSC 2024</div><img src='images/PBScaler.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+  - &nbsp; <span class="badge">FSE '25</span> &nbsp;&nbsp;**TracePicker: Optimization-based Trace Sampling for Microservice-based Systems**
 
-[PBScaler: A Bottleneck-Aware Autoscaling Framework for Microservice-Based Applications](https://ieeexplore.ieee.org/document/10468626)
+  <span style="font-size:14px;"> **Shuaiyu Xie**, Jian Wang, Maodong Li, Peiran Chen, Jifeng Xuan, Bing Li. </span>
 
-**Shuaiyu Xie**, Jian Wang, Bing Li, Zekun Zhang, Duantengchuan Li, Patrick C. K. Hung
+  <span style="font-size:14px;">  </span>
 
-**<font color=red>TSC 2024  </font>** \| [[**Paper**]](https://arxiv.org/abs/2407.19711)  [[**Code**] ![](https://img.shields.io/github/stars/WHU-AISE/PBScaler?style=social)](https://github.com/WHU-AISE/PBScaler)
-</div>
-</div>
+  [Paper]
+  [Code]
+  [Slides]
+  [DOI]
 
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">FSE 2025</div><img src='images/TracePicker.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-TracePicker: Optimization-based Trace Sampling for Microservice-based Systems
-<!-- [TracePicker: Optimization-based Trace Sampling for Microservice-based Systems](https://ieeexplore.ieee.org/document/10468626) -->
-
-**Shuaiyu Xie**, Jian Wang, Maodong Li, Peiran Chen, Jifeng Xuan, Bing Li
-
-**<font color=red>FSE 2025  </font>**
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/TVDiag.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[TVDiag: A Task-oriented and View-invariant Failure Diagnosis Framework with Multimodal Data](https://arxiv.org/abs/2407.19711)
-
-**Shuaiyu Xie**, Jian Wang, Hanbin He, Zhihao Wang, Yuqi Zhao, Neng Zhang, Bing Li
-
-[[**Paper**]](https://arxiv.org/abs/2407.19711)  [[**Code**] ![](https://img.shields.io/github/stars/WHU-AISE/TVDiag?style=social)](https://github.com/WHU-AISE/TVDiag)
-</div>
-</div>
-
-- &nbsp; <span class="badge">Arxiv</span> &nbsp;&nbsp;**ScalerEval: Automated and Consistent Evaluation Testbed for Auto-scalers in Microservices**
+- &nbsp; <span class="badge">Arxiv</span> &nbsp;**ScalerEval: Automated and Consistent Evaluation Testbed for Auto-scalers in Microservices**
 
   <span style="font-size:14px;"> **Shuaiyu Xie**, Jian Wang, Yang Luo, Yunqing Yong, Yuzhen Tan, Bing Li. </span>
 
@@ -75,6 +51,30 @@ TracePicker: Optimization-based Trace Sampling for Microservice-based Systems
   [[Code]](https://github.com/WHU-AISE/ScalerEval)
   [Slides]
   [DOI]
+
+
+  - &nbsp; <span class="badge">Arxiv</span> &nbsp;**TVDiag: A Task-oriented and View-invariant Failure Diagnosis Framework with Multimodal Data**
+
+  <span style="font-size:14px;"> **Shuaiyu Xie**, Jian Wang, Hanbin He, Zhihao Wang, Yuqi Zhao, Neng Zhang, Bing Li. </span>
+
+  <span style="font-size:14px;">  </span>
+
+  [[Paper]](https://arxiv.org/abs/2407.19711)
+  [[Code]](https://github.com/WHU-AISE/TVDiag)
+  [Slides]
+  [DOI]
+
+
+  - &nbsp; <span class="badge">TSC '24</span> &nbsp;&nbsp;**PBScaler: A Bottleneck-Aware Autoscaling Framework for Microservice-Based Applications**
+
+  <span style="font-size:14px;"> **Shuaiyu Xie**, Jian Wang, Bing Li, Zekun Zhang, Duantengchuan Li, Patrick C. K. Hung. </span>
+
+  <span style="font-size:14px;">  </span>
+
+  [[Paper]](https://ieeexplore.ieee.org/document/10468626)
+  [[Code]](https://github.com/WHU-AISE/PBScaler)
+  [Slides]
+  [[DOI]](https://doi.org/10.1109/TSC.2024.3376202)
 
 # 🎖 Honors and Awards
 - *2024.12* Huawei Special Scholarship 
