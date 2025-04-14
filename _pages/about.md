@@ -30,11 +30,11 @@ My research interest includes microservice, serverless, AIOps, and service compu
 
 # 📝 Publications 
 
-  - &nbsp; <span class="badge">FSE '25</span> &nbsp;&nbsp;**TracePicker: Optimization-based Trace Sampling for Microservice-based Systems**
+- &nbsp; <span class="badge">FSE '25</span> &nbsp;&nbsp;**TracePicker: Optimization-based Trace Sampling for Microservice-based Systems**
 
   <span style="font-size:14px;"> **Shuaiyu Xie**, Jian Wang, Maodong Li, Peiran Chen, Jifeng Xuan, Bing Li. </span>
 
-  <span style="font-size:14px;">  </span>
+  <span style="font-size:14px;"> _The ACM International Conference on the Foundations of Software Engineering, Trondheim, Norway, June 2025._ </span>
 
   [Paper]
   [Code]
@@ -45,31 +45,25 @@ My research interest includes microservice, serverless, AIOps, and service compu
 
   <span style="font-size:14px;"> **Shuaiyu Xie**, Jian Wang, Yang Luo, Yunqing Yong, Yuzhen Tan, Bing Li. </span>
 
-  <!-- <span style="font-size:14px;">  </span> -->
-
   [[Paper]](https://arxiv.org/abs/2504.08308)
   [[Code]](https://github.com/WHU-AISE/ScalerEval)
   [Slides]
   [DOI]
 
-
-  - &nbsp; <span class="badge">Arxiv</span> &nbsp;**TVDiag: A Task-oriented and View-invariant Failure Diagnosis Framework with Multimodal Data**
+- &nbsp; <span class="badge">Arxiv</span> &nbsp;**TVDiag: A Task-oriented and View-invariant Failure Diagnosis Framework with Multimodal Data**
 
   <span style="font-size:14px;"> **Shuaiyu Xie**, Jian Wang, Hanbin He, Zhihao Wang, Yuqi Zhao, Neng Zhang, Bing Li. </span>
-
-  <span style="font-size:14px;">  </span>
-
+  
   [[Paper]](https://arxiv.org/abs/2407.19711)
   [[Code]](https://github.com/WHU-AISE/TVDiag)
   [Slides]
   [DOI]
 
-
-  - &nbsp; <span class="badge">TSC '24</span> &nbsp;&nbsp;**PBScaler: A Bottleneck-Aware Autoscaling Framework for Microservice-Based Applications**
+- &nbsp; <span class="badge">TSC '24</span> &nbsp;&nbsp;**PBScaler: A Bottleneck-Aware Autoscaling Framework for Microservice-Based Applications**
 
   <span style="font-size:14px;"> **Shuaiyu Xie**, Jian Wang, Bing Li, Zekun Zhang, Duantengchuan Li, Patrick C. K. Hung. </span>
 
-  <span style="font-size:14px;">  </span>
+  <span style="font-size:14px;"> _The IEEE Transactions on Services Computing, March-April 2024_ </span>
 
   [[Paper]](https://ieeexplore.ieee.org/document/10468626)
   [[Code]](https://github.com/WHU-AISE/PBScaler)
