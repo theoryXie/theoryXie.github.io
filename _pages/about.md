@@ -64,7 +64,7 @@ TracePicker: Optimization-based Trace Sampling for Microservice-based Systems
 </div>
 </div>
 
-- &nbsp; <span class="badge">Arxiv</span> &nbsp;**ScalerEval: Automated and Consistent Evaluation Testbed for Auto-scalers in Microservices**
+- &nbsp; <span class="badge">Arxiv</span> &nbsp;&nbsp;**ScalerEval: Automated and Consistent Evaluation Testbed for Auto-scalers in Microservices**
 
   <span style="font-size:14px;"> **Shuaiyu Xie**, Jian Wang, Yang Luo, Yunqing Yong, Yuzhen Tan, Bing Li. </span>
 
