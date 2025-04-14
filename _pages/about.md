@@ -24,6 +24,7 @@ My research interest includes microservice, serverless, AIOps, and service compu
 
 
 # 🔥 News
+- *2025.04*: &nbsp;💡 We release [ScalerEval](https://arxiv.org/abs/2504.08308), an automated and consistent testbed for autoscaling
 - *2025.04*: &nbsp;🎉 One paper is accepted by FSE 2025. 
 - *2024.03*: &nbsp;🎉 One paper is accepted by TSC 2024. 
 
