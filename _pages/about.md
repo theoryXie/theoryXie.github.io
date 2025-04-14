@@ -64,6 +64,16 @@ TracePicker: Optimization-based Trace Sampling for Microservice-based Systems
 </div>
 </div>
 
+- &nbsp; <span class="badge">Arxiv</span> &nbsp;**ScalerEval: Automated and Consistent Evaluation Testbed for Auto-scalers in Microservices**
+
+  <span style="font-size:14px;"> **Shuaiyu Xie**, Jian Wang, Yang Luo, Yunqing Yong, Yuzhen Tan, Bing Li. </span>
+
+  <!-- <span style="font-size:14px;">  </span> -->
+
+  [[Paper]](https://arxiv.org/abs/2504.08308)
+  [[Code]](https://github.com/WHU-AISE/ScalerEval)
+  [Slides]
+  [DOI]
 
 # 🎖 Honors and Awards
 - *2024.12* Huawei Special Scholarship 
