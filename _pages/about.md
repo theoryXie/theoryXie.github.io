@@ -24,6 +24,7 @@ My research interest includes microservice, serverless, AIOps, and service compu
 
 
 # 🔥 News
+- *2025.04*: &nbsp;🎉 One paper is accepted by TOSEM 2025. 
 - *2025.04*: &nbsp;💡 We release [ScalerEval](https://arxiv.org/abs/2504.08308), an automated and consistent testbed for autoscaling
 - *2025.04*: &nbsp;🎉 One paper is accepted by FSE 2025. 
 - *2024.03*: &nbsp;🎉 One paper is accepted by TSC 2024. 
@@ -50,14 +51,16 @@ My research interest includes microservice, serverless, AIOps, and service compu
   [Slides]
   [DOI]
 
-- &nbsp; <span class="badge">Arxiv</span> &nbsp;**TVDiag: A Task-oriented and View-invariant Failure Diagnosis Framework with Multimodal Data**
+- &nbsp; <span class="badge">TOSEM '25</span> &nbsp;**TVDiag: A Task-oriented and View-invariant Failure Diagnosis Framework with Multimodal Data**
 
   <span style="font-size:14px;"> **Shuaiyu Xie**, Jian Wang, Hanbin He, Zhihao Wang, Yuqi Zhao, Neng Zhang, Bing Li. </span>
+
+  <span style="font-size:14px;"> _The ACM Transactions on Software Engineering and Methodology, May-June 2025._ </span>
   
   [[Paper]](https://arxiv.org/abs/2407.19711)
   [[Code]](https://github.com/WHU-AISE/TVDiag)
   [Slides]
-  [DOI]
+  [[DOI]](http://dx.doi.org/10.1145/3734868)
 
 - &nbsp; <span class="badge">TSC '24</span> &nbsp;&nbsp;**PBScaler: A Bottleneck-Aware Autoscaling Framework for Microservice-Based Applications**
 
