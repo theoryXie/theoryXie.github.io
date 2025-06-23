@@ -37,10 +37,10 @@ My research interest includes microservice, serverless, AIOps, and service compu
 
   <span style="font-size:14px;"> _The ACM International Conference on the Foundations of Software Engineering, Trondheim, Norway, June 2025._ </span>
 
-  [Paper]
-  [Code]
+  [[Paper]](https://dl.acm.org/doi/10.1145/3729351)
+  [[Code]](https://github.com/WHU-AISE/TracePicker)
   [Slides]
-  [DOI]
+  [[DOI]](http://dx.doi.org/10.1145/3729351)
 
 - &nbsp; <span class="badge">Arxiv</span> &nbsp;**ScalerEval: Automated and Consistent Evaluation Testbed for Auto-scalers in Microservices**
 
