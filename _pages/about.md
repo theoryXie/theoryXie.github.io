@@ -44,7 +44,7 @@ I am currently a Lecturer at the Information Support Force Engineer University. 
   [Slides]
   [[DOI]](https://doi.org/10.1145/3813806)
 
-  - &nbsp; <span class="badge">FSE'26</span> &nbsp;**ScalerEval: Automated and Consistent Evaluation Testbed for Auto-scalers in Microservices**
+- &nbsp; <span class="badge">FSE'26</span> &nbsp;**ScalerEval: Automated and Consistent Evaluation Testbed for Auto-scalers in Microservices**
 
   <span style="font-size:14px;"> **Shuaiyu Xie**, Jian Wang, Yang Luo, Yunqing Yong, Yuzhen Tan, Bing Li. </span>
   <span style="font-size:14px;"> _The ACM International Conference on the Foundations of Software Engineering, Montreal, Canada, July 2026._ </span>
