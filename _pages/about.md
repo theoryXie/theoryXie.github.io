@@ -16,20 +16,43 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-
-I am working toward the PhD degree in software engineering with the [School of Computer Science, Wuhan University, Wuhan, China](https://cs.whu.edu.cn/), advised by [Prof. Bing Li (李兵)](https://scholar.google.com.hk/citations?user=TgB8tuYAAAAJ) and [Prof. Jian Wang (王健)](https://dblp.uni-trier.de/pid/39/449-18.html).
+I am currently a Lecturer at the Information Support Force Engineer University. I completed my Ph.D. in Software Engineering at the School of Computer Science, Wuhan University, under the supervision of [Prof. Bing Li (李兵)](https://scholar.google.com.hk/citations?user=TgB8tuYAAAAJ) and [Prof. Jian Wang (王健)](https://dblp.uni-trier.de/pid/39/449-18.html). My research interest includes service computing, AIOps, agent, data management, and knowledge engineering. I have some work or research experience in the field of autoscaling, root cause localization, serverless cold start mitigation, fault injection, and trace sampling.
 
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
-My research interest includes microservice, serverless, AIOps, and service computing. I have some work or research experience in the field of autoscaling, root cause localization, serverless cold start mitigation, and trace sampling.
+
 
 
 # 🔥 News
-- *2025.04*: &nbsp;🎉 One paper is accepted by TOSEM 2025. 
+- *2026.03*: &nbsp;🎉 FastFI is accepted by TOSEM 2026.
+- *2026.03*: &nbsp;🎉 ScalerEval is accepted by FSE 2026 tool demonstration.
+- *2025.06*: &nbsp;🎉 HybridFP is accepted by ICSOC 2025.
+- *2025.04*: &nbsp;🎉 TVDiag is accepted by TOSEM 2026. 
 - *2025.04*: &nbsp;💡 We release [ScalerEval](https://arxiv.org/abs/2504.08308), an automated and consistent testbed for autoscaling
-- *2025.04*: &nbsp;🎉 One paper is accepted by FSE 2025. 
-- *2024.03*: &nbsp;🎉 One paper is accepted by TSC 2024. 
+- *2025.04*: &nbsp;🎉 TracePicker is accepted by FSE 2025. 
+- *2024.03*: &nbsp;🎉 PBScaler is accepted by TSC 2024. 
 
 # 📝 Publications 
+
+- &nbsp; <span class="badge">TOSEM'26</span> &nbsp;&nbsp;**FastFI: Enhancing API Call-Site Robustness in Microservice-Based Systems with Fault Injection**
+
+  <span style="font-size:14px;"> Yuzhen Tan, Jian Wang, **Shuaiyu Xie**, Bing Li, Yunqing Yong, Neng Zhang, Shaolin Tan. </span>
+
+  <span style="font-size:14px;"> _The ACM Transactions on Software Engineering and Methodology, August, 2026._ </span>
+
+  [[Paper]](https://dl.acm.org/doi/10.1145/3729351)
+  [[Code]](https://github.com/TanYuzhen/TOSEM-FastFI-Code)
+  [Slides]
+  [[DOI]](https://doi.org/10.1145/3813806)
+
+  - &nbsp; <span class="badge">FSE'26</span> &nbsp;**ScalerEval: Automated and Consistent Evaluation Testbed for Auto-scalers in Microservices**
+
+  <span style="font-size:14px;"> **Shuaiyu Xie**, Jian Wang, Yang Luo, Yunqing Yong, Yuzhen Tan, Bing Li. </span>
+  <span style="font-size:14px;"> _The ACM International Conference on the Foundations of Software Engineering, Montreal, Canada, July 2026._ </span>
+
+  [[Paper]](https://arxiv.org/abs/2504.08308)
+  [[Code]](https://github.com/WHU-AISE/ScalerEval)
+  [Slides]
+  [DOI]
 
 - &nbsp; <span class="badge">FSE '25</span> &nbsp;&nbsp;**TracePicker: Optimization-based Trace Sampling for Microservice-based Systems**
 
@@ -42,14 +65,16 @@ My research interest includes microservice, serverless, AIOps, and service compu
   [Slides]
   [[DOI]](http://dx.doi.org/10.1145/3729351)
 
-- &nbsp; <span class="badge">Arxiv</span> &nbsp;**ScalerEval: Automated and Consistent Evaluation Testbed for Auto-scalers in Microservices**
+- &nbsp; <span class="badge">ICSOC '25</span> &nbsp;&nbsp;**HybridFP: Divide-and-Conquer Serverless Function Provision for Mitigating Cold Starts**
 
-  <span style="font-size:14px;"> **Shuaiyu Xie**, Jian Wang, Yang Luo, Yunqing Yong, Yuzhen Tan, Bing Li. </span>
+  <span style="font-size:14px;"> Yifan Xie, **Shuaiyu Xie**, Jian Wang, Bing Li. </span>
 
-  [[Paper]](https://arxiv.org/abs/2504.08308)
-  [[Code]](https://github.com/WHU-AISE/ScalerEval)
+  <span style="font-size:14px;"> _The International Conference on Service-Oriented Computing, Shenzhen, China, December 2025._ </span>
+
+  [[Paper]](https://doi.org/10.1007/978-981-95-5012-8_22)
+  [[Code]]()
   [Slides]
-  [DOI]
+  [[DOI]](https://doi.org/10.1007/978-981-95-5012-8_22)
 
 - &nbsp; <span class="badge">TOSEM '25</span> &nbsp;**TVDiag: A Task-oriented and View-invariant Failure Diagnosis Framework with Multimodal Data**
 
@@ -74,17 +99,19 @@ My research interest includes microservice, serverless, AIOps, and service compu
   [[DOI]](https://doi.org/10.1109/TSC.2024.3376202)
 
 # 🎖 Honors and Awards
+- *2025.12* National Scholarship
 - *2024.12* Huawei Special Scholarship 
 - *2023.12* National Scholarship
 - *2023.11* Lei Jun Computer Graduate Scholarship
 - *2022.10* [First Prize of the 4th China Graduate AI Innovation Competition](https://cpipc.acge.org.cn/cw/hp/2c9088a5696cbf370169a3f8101510bd) (10 teams in China each year) 
 
 # 📖 Educations
-- *2021.09 - 2026.06 (expected)*, Phd of Engineering in Software Engineering, Department of Computer Science, Wuhan University (WHU).
+- *2021.09 - 2026.06*, Phd of Engineering in Software Engineering, Department of Computer Science, Wuhan University (WHU).
 - *2017.09 - 2021.06*, Bachelor of Engineering in Software Engineering, Department of Computer Science, Wuhan University (WHU). 
 
-<!-- # 💬 Invited Talks
-- *2024.09*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
+# 💬 Invited Talks
+- *2025.11*, SPEC Research Group (Online)
+- *2025.06*, TracePicker presentation, FSE Trondheim, Norway
 
-<!-- # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
+# 💻 Internships
+- *2025.08 - 2026.03*, Research Intern, Microsoft DKI, Shanghai, China.
